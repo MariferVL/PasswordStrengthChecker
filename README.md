@@ -22,12 +22,13 @@ The program classifies the password strength into the following categories:
 
    ```bash
    javac PasswordStrengthChecker.java
+    ```
 
     Run the program with the following command:
 
-    bash
-
+    ```bash
     java PasswordStrengthChecker
+    ```
 
     The program will display an introductory message and prompt you to enter a password to check its strength.
 
