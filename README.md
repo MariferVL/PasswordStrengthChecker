@@ -6,7 +6,8 @@
     <br/>
      <a href="https://replit.com/@marifervl/PasswordStrengthChecker" target="_blank"><strong>Deployment Access »</strong></a>
     <br/>
-    
+    <br/>
+
 This Java program evaluates the strength of a password based on specified criteria. It checks if the password meets the following requirements:
 
 - Should contain at least one symbol. Allowed symbols are: /(&$#)-!_@%=
