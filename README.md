@@ -38,7 +38,7 @@ The program classifies the password strength into the following categories:
 
 Restrictions
 
-    This program uses only Java SE classes (Java version 11 or higher) and does not rely on external libraries.
+This program uses only Java SE classes (Java version 11 or higher) and does not rely on external libraries.
 
 
 Author
